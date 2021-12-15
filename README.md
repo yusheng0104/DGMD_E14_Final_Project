@@ -1,8 +1,8 @@
 # DGMD_E14_Final_Project
 
 1. Data:
-squat data: Austin's data in csv format, decimal
-proper-form and improper-form folders: Ping's data in txt format, hexadecimal
+1) squat data: Austin's data in csv format, decimal;
+2) proper-form and improper-form folders: Ping's data in txt format, hexadecimal
 
 2. Cleaned data: 
 squats_df.csv (input for ML models)
