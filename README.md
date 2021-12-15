@@ -1,7 +1,9 @@
 # DGMD_E14_Final_Project
 
 1. Data:
+
 a. squat data: Austin's data in csv format, decimal;
+
 b. proper-form and improper-form folders: Ping's data in txt format, hexadecimal
 
 2. Cleaned data: 
