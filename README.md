@@ -6,3 +6,6 @@ Data:
 
 Presentation file:
 DGMD E-14 - Workout Assistant F1.pptx
+
+Cleaned data: Input for ML models:
+squats_df.csv
