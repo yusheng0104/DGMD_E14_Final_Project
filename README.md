@@ -9,3 +9,5 @@ DGMD E-14 - Workout Assistant F1.pptx
 
 Cleaned data: Input for ML models:
 squats_df.csv
+
+Code: DGMD_E14_Final_project.ipynb
