@@ -2,9 +2,9 @@
 
 1. Data:
 
-a. squat data: Austin's data in csv format, decimal;
+   squat data: Austin's data in csv format, decimal;
 
-b. proper-form and improper-form folders: Ping's data in txt format, hexadecimal
+   proper-form and improper-form folders: Ping's data in txt format, hexadecimal
 
 2. Cleaned data: 
 squats_df.csv (input for ML models)
